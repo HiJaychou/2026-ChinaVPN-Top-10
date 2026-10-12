@@ -1,0 +1,9 @@
+title: 2026 中国大陆可用 VPN 红黑榜 Top 10
+description: 别再看海外评测了：2026 年在中国大陆真正能用的 VPN 避坑与红黑榜，按墙内可用性、稳定性、支付方式和价格排名，缺点照写。
+lang: zh-CN
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+kramdown:
+  parse_block_html: true
